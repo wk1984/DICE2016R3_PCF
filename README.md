@@ -12,6 +12,10 @@ To prepare the Python environment, you can use the following lines:
   
   conda install ipopt_bin -c cachemeorg
 
+
 Usage:
-Start the project by running: DICE2016R_Original.ipynb
+
+Start the project by running: 
+
+  DICE2016R_Original.ipynb
 
